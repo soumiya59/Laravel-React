@@ -1,3 +1,12 @@
+<p align="center">
+     <img style="padding-right:20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="100" height="100"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="100" height="100" />
+</p>
+
+## Prerequisite
+1. Make sure you have [composer](https://getcomposer.org/download/) installed.
+2. Make sure you have latest stable version of [node](https://nodejs.org/en/download/) installed.
+
 ## Installation
 1. `git clone https://github.com/soumiya59/Laravel-React.git`
 2. `cd Laravel-React`
