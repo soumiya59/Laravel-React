@@ -12,6 +12,9 @@
         "vite": "^4.0.0"
     },
     "dependencies": {
-        "@vitejs/plugin-react": "^3.0.1"
+        "@vitejs/plugin-react": "^3.0.1",
+        "react-router": "^6.8.0",
+        "react-router-dom": "^6.8.0",
+        "styled-components": "^5.3.6"
     }
 }
